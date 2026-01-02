@@ -1,8 +1,6 @@
 # Web-fundamentals-
 This is college related assignment and practical 👩🏼‍💻👩🏼‍💻👩🏼‍💻.
 
-# Web-fundamentals-1
-This is college related assignment and practical 👩🏼‍💻👩🏼‍💻👩🏼‍💻.
 # 📚 Assignments & Projects Repository
 
 Welcome to my GitHub repository!  
